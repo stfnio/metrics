@@ -1,2 +1,2 @@
-# metrics
-A solution for smart metrics calculation
+# Statistics
+A solution for smart near-realtime statistics calculation
